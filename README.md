@@ -1,5 +1,5 @@
 # Modulo-acessorio-carro
- Incrementar novas funcionalidades de conforto em um carro, utilizando Python no Arduino
+ Incrementar novas funcionalidades de conforto em um carro, utilizando o Arduino
  Funções
 - [ ] Ligar e desligar relé do GNV
 - [ ] Ligar e desligar rádio com temporizador
